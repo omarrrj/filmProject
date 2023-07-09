@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+
+#body {
+	color: white;
+	background-color: #053661;
+}
+
+#sBar {
+	margin: 0;
+	padding: 20px;
+	
+}
+
+
+nav {
+	
+	margin-top: 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+	overflow: hidden;
+	background-color: #053661;
+}
+
+li {
+	float: left;
+	width: 25%;
+	 
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	border-style: solid;
+	border-color: white;
+	background-color: #0B77D5;
+	 text-decoration: none;
+	 color: white;
+}
+
+td{
+	  font-weight: bold;
+	
+}
+
+i{
+	width:"16" ;
+	height:"16";
+}
